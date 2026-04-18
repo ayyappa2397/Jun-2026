@@ -4,11 +4,11 @@ public class Helloworld {
 
     public static void main (String[] args) {
 
-        System.out.println("Hello world Yadaiah"); // father
+        System.out.println("Hello world Yadaiah");
 
         System.out.println("Hello world Ayyappa");
 
-        System.out.println("Hello world Yashoda"); // mother
+        System.out.println("Hello world Yashoda");
 
 
 

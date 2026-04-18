@@ -6,9 +6,13 @@ public class Helloworld {
 
         System.out.println("Hello world Yadaiah"); // father
 
-        System.out.println("Hello world Ayyappa"); // son
+        System.out.println("Hello world Ayyappa");
 
         System.out.println("Hello world Yashoda"); // mother
+
+
+
+
     }
 
 }
